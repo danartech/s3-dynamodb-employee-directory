@@ -1,4 +1,4 @@
-# S3 and DynamoDB Employee Directory
+# Configure a Web Application to Use Amazon (AWS) S3 Bucket and Amazon DynamoDB Table
 
 ## Description
 This project focuses on customizing the Employee Directory application to include employee images and information using Amazon S3 and Amazon DynamoDB. The integration allows for efficient storage and retrieval of images and data.
